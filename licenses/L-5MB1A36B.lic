@@ -1,0 +1,6 @@
+{
+  "v": 1,
+  "kid": "prod-1",
+  "payload": "eyJsaWNlbnNlSWQiOiJMLTVNQjFBMzZCIiwidHlwZSI6InN0YW5kYXJkIiwiZmVhdHVyZXMiOlsiKiJdLCJjb250cmFjdEVuZCI6IjIwMjctMTEtMjQiLCJpc3N1ZWRBdCI6IjIwMjYtMTEtMjVUMDA6NDU6MjJaIiwic2VxIjoxLCJtYWNoaW5lcyI6W3siY29kZSI6IjdCNFQtTjkzQi00NDg3LVY4N1kiLCJleHBpcmVzIjpudWxsfV19",
+  "sig": "46BlbemMdju2JBgZIjO1AAyfdQp5DDigOzUKWTLzYuqjEkSM6mbs1cmQT6kz9dQy2pqJNOemB00RSYA0mzX6mw"
+}
