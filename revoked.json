@@ -1,6 +1,6 @@
 {
   "v": 1,
   "kid": "prod-1",
-  "payload": "eyJzZXEiOjMsImlzc3VlZEF0IjoiMjAyNi0xMS0xMVQwNDoyODoyOVoiLCJyZXZva2VkIjpbXX0",
-  "sig": "RtBsyU9MmQ07zpjKx40X8yJ9vhBezd-P7qoO4F_Y_sFPUAxXStX1dnf1k-TSQRI8bjVoTt6XQU3d_tQOkNuCPw"
+  "payload": "eyJzZXEiOjQsImlzc3VlZEF0IjoiMjAyNi0xMS0yNVQwMDo0OTo0NFoiLCJyZXZva2VkIjpbIkwtUVpBNEFLNEgiXX0",
+  "sig": "0cxZnmyfsGvgc1c51A8ORigU9fXVVAZ_l0rgbdW71CQ4GV29vxmzt-381LzWZCv_eMli6t04GSwCewUnqPhWmQ"
 }
